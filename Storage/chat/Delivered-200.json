@@ -1,0 +1,8 @@
+{
+    "ok": true,
+    "code": 200,
+    "message": "messages delivered successfully",
+    "detail": "successful",
+    "data": null,
+    "errors": null
+}

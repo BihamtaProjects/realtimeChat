@@ -1,0 +1,8 @@
+{
+    "ok": true,
+    "code": 200,
+    "message": "Successfully deleted.",
+    "detail": "Successfully deleted.",
+    "data": null,
+    "errors": null
+}

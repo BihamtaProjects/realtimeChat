@@ -1,0 +1,107 @@
+{
+    "ok": true,
+    "code": 200,
+    "message": "request well done",
+    "detail": "successful",
+    "data": {
+        "current_page": 1,
+        "first_page_url": "https://getzoop.net/api/v1/chat/supportchat?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://getzoop.net/api/v1/chat/supportchat?page=1",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://getzoop.net/api/v1/chat/supportchat?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": null,
+        "path": "https://getzoop.net/api/v1/chat/supportchat",
+        "per_page": 15,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1,
+        "items": [
+            {
+                "id": 1,
+                "status": 1,
+                "is_login": 0,
+                "chat_id": 2,
+                "support_reason_id": 4,
+                "related_question_id": 0,
+                "created_at": "2023-04-03T07:12:14.000000Z",
+                "updated_at": "2023-04-03T07:12:14.000000Z",
+                "chat": {
+                    "id": 2,
+                    "title": "test title",
+                    "content": "Pariatur sunt et minima odit tempora repellat. Error ducimus quisquam dolorem earum. Asperiores et ipsa enim eum cum quos aut nobis. Amet nam eaque ducimus enim.",
+                    "status": 3,
+                    "last_status": 1,
+                    "create_user_id": 1,
+                    "last_respond_id": 1,
+                    "suspend_user_id": 1,
+                    "admin_read": 0,
+                    "last_answer_time": null,
+                    "created_at": "2023-04-03T07:12:14.000000Z",
+                    "updated_at": "2023-04-03T07:12:14.000000Z",
+                    "users": [
+                        {
+                            "id": 1,
+                            "email": "padmin@getzoop.com",
+                            "gender": 1,
+                            "cell": "+989032383736",
+                            "name": "مدیر",
+                            "family": "ارشد",
+                            "birth_day": null,
+                            "last_login_time": "2021-07-01 11:18:24",
+                            "active_status": 1,
+                            "delete_status": 0,
+                            "avatar": "avatar-14917197901.png",
+                            "create_time": "2014-12-10T10:30:00.000000Z",
+                            "create_user_id": null,
+                            "update_time": "2020-08-20T11:25:44.000000Z",
+                            "update_user_id": 1,
+                            "cash": 0,
+                            "created_in": 1,
+                            "points_cash": 0,
+                            "default_country": null,
+                            "default_state": 0,
+                            "default_paying": null,
+                            "auth_key": "Qj-sh5XX059w_BudgpWvfQKreTilVmMV",
+                            "mobile_confirm": true,
+                            "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+                            "reset_token_generate_time": 1612414736,
+                            "national_code": null,
+                            "passport_number": null,
+                            "necessary_phone_number": null,
+                            "shaba_number": null,
+                            "shaba_number_confirm": 0,
+                            "android_app_dl_link_sent": 0,
+                            "last_ongoing_call_time": null,
+                            "otp": "7497+1624864946",
+                            "otp_generate_time": 1624864946,
+                            "euro_cash": 0,
+                            "pivot": {
+                                "chat_id": 2,
+                                "user_id": 1,
+                                "role": "patient"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "errors": null
+}

@@ -1,0 +1,15 @@
+{
+    "ok": false,
+    "code": 422,
+    "message": "The given data was invalid.",
+    "detail": null,
+    "data": null,
+    "errors": {
+        "content": [
+            "The content field is required."
+        ],
+        "title": [
+            "The title field is required."
+        ]
+    }
+}

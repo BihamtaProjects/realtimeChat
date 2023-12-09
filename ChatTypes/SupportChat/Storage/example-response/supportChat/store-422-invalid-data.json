@@ -1,0 +1,12 @@
+{
+    "ok": false,
+    "code": 422,
+    "message": "The given data was invalid.",
+    "detail": null,
+    "data": null,
+    "errors": {
+        "title": [
+            "The title id field is required."
+        ]
+    }
+}

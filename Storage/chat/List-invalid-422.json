@@ -1,0 +1,12 @@
+{
+    "ok": false,
+    "code": 422,
+    "message": "The selected chat id is invalid.",
+    "detail": "error, something is wrong",
+    "data": null,
+    "errors": {
+        "chat_id": [
+            "The selected chat id is invalid."
+        ]
+    }
+}

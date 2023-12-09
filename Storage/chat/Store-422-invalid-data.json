@@ -1,0 +1,15 @@
+{
+    "ok": false,
+    "code": 422,
+    "message": "The text field is required when special message id is not present. (and 1 more error)",
+    "detail": "error, something is wrong",
+    "data": null,
+    "errors": {
+        "text": [
+            "The text field is required when special message id is not present."
+        ],
+        "special_message_id": [
+            "The special message id field is required when text is not present."
+        ]
+    }
+}

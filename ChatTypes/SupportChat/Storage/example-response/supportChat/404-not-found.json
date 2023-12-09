@@ -1,0 +1,8 @@
+{
+    "ok": false,
+    "code": 404,
+    "message": "No query results for model [Modules\\Chat\\ChatTypes\\SupportChat\\Models\\SupportChat] 10",
+    "detail": null,
+    "data": null,
+    "errors": null
+}

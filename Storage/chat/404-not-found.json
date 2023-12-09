@@ -1,0 +1,8 @@
+{
+    "ok": false,
+    "code": 500,
+    "message": "the message has been seen or deleted before",
+    "detail": "something is wrong",
+    "data": null,
+    "errors": null
+}
